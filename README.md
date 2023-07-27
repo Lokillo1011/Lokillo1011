@@ -7,7 +7,7 @@
 
 - 👯 Me gusta el trabajo en equipo y la comunicación entre personas.
 
-- 📫 Contactame por medio de LinkedIn [Alfredo](https://mx.linkedin.com/in/alfredo-mendez-elias-65329a15a/) o por medio de mi correo [Correo](mailto:alfredomendez60@gmail.com)
+- 📫 Contactame por medio de LinkedIn [Alfredo](https://www.linkedin.com/in/alfredo-mendez-elias-65329a15a) o por medio de mi correo [Correo](mailto:alfredomendez60@gmail.com)
 
 
 <h3 style="text-align:center">Tecnologías</h3>
