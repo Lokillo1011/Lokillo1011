@@ -12,7 +12,7 @@
 
 <h3 style="text-align:center">Tecnologías</h3>
 <div style="text-align:center">
-<table>
+<table style="text-align:center">
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML" width="50" height="50"/></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS" width="50" height="50"/></td>
