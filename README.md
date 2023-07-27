@@ -19,6 +19,7 @@
         <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JS" width="50" height="50"/></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2038871-1720084.png" alt="PHP" width="50" height="50"/></td>
         <td><img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" width="50" height="50"/></td>
+        <td><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySql" width="50" height="50"/></td>
     </tr>
 </table>
 </div>
